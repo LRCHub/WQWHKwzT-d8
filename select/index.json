@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夢に逢えたら",
+  "base_artist": "Eve",
+  "createdAt": "2026-01-04T12:04:49.127527Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢に逢えたら",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_夢に逢えたら_Eve.txt"
+    }
+  ]
+}
